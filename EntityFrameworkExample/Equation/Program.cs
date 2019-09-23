@@ -16,8 +16,8 @@ namespace Equation
             Console.WriteLine($"The sum of the numbers is: " + e.Add());
             Console.WriteLine($"The difference of the numbers is: "+ e.Subtract());
             Console.WriteLine($"The product of the numbers is: " + e.Multiply());
-            //Console.WriteLine(e.LeftToThePower());
-            //Console.WriteLine(e.RightToThePower());
+            Console.WriteLine($"{e.Left} to the power of {e.Right} is: { e.LeftToThePower(power: (int)e.Right)}");
+            Console.WriteLine($"{e.Right} to the power of {e.Left} is: {e.RightToThePower(power: (int)e.Left)}");
         }
     }
 }

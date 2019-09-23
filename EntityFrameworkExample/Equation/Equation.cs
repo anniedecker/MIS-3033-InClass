@@ -49,7 +49,7 @@ namespace Equation
         public double RightToThePower(int power)
         {
             power = (int)Left;
-            double rightPower = Math.Pow(Left, power);
+            double rightPower = Math.Pow(Right, power);
             return rightPower;
         }
     }
