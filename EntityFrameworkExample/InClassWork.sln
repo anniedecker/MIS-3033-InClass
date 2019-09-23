@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionExample", "CollectionExample\CollectionExample.csproj", "{936C6333-4E67-4557-AF16-E7CD4C112289}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsPractice", "LoopsPractice\LoopsPractice.csproj", "{4F3ADF11-1336-49BC-91BD-1277E8F5DB19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equation", "Equation\Equation.csproj", "{9DBD620D-429D-4E8B-B477-6EB313BA0FA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{936C6333-4E67-4557-AF16-E7CD4C112289}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{936C6333-4E67-4557-AF16-E7CD4C112289}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{936C6333-4E67-4557-AF16-E7CD4C112289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3ADF11-1336-49BC-91BD-1277E8F5DB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3ADF11-1336-49BC-91BD-1277E8F5DB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3ADF11-1336-49BC-91BD-1277E8F5DB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3ADF11-1336-49BC-91BD-1277E8F5DB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DBD620D-429D-4E8B-B477-6EB313BA0FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBD620D-429D-4E8B-B477-6EB313BA0FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBD620D-429D-4E8B-B477-6EB313BA0FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBD620D-429D-4E8B-B477-6EB313BA0FA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
